@@ -1,0 +1,75 @@
+{
+	"reasons": {
+		"count": 0,
+		"items": [
+			{
+				"summary": "This spot is popular",
+				"type": "general",
+				"reasonName": "globalInteractionReason"
+			}
+		]
+	},
+	"venue": {
+		"id": "5935cafb340a584be5c5467a",
+		"name": "Subway",
+		"contact": {},
+		"location": {
+			"address": "Plaza Iztarú, 600 m oeste de Entrada Principal del TEC",
+			"lat": 9.858532610733057,
+			"lng": -83.91722967191171,
+			"labeledLatLngs": [
+				{
+					"label": "display",
+					"lat": 9.858532610733057,
+					"lng": -83.91722967191171
+				}
+			],
+			"distance": 403,
+			"cc": "CR",
+			"city": "Cartago",
+			"state": "Cartago",
+			"country": "Costa Rica",
+			"formattedAddress": [
+				"Plaza Iztarú, 600 m oeste de Entrada Principal del TEC",
+				"Cartago",
+				"Costa Rica"
+			]
+		},
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1c5941735",
+				"name": "Sandwich Place",
+				"pluralName": "Sandwich Places",
+				"shortName": "Sandwiches",
+				"icon": {
+					"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/deli_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"stats": {
+			"tipCount": 0,
+			"usersCount": 0,
+			"checkinsCount": 0,
+			"visitsCount": 0
+		},
+		"beenHere": {
+			"count": 0,
+			"lastCheckinExpiredAt": 0,
+			"marked": false,
+			"unconfirmedCount": 0
+		},
+		"photos": {
+			"count": 0,
+			"groups": []
+		},
+		"hereNow": {
+			"count": 0,
+			"summary": "Nobody here",
+			"groups": []
+		}
+	},
+	"referralId": "e-0-5935cafb340a584be5c5467a-4"
+}
